@@ -1,2 +1,3 @@
 olá pessoas
 eu sou otavio schmieleski costa trabalho na sicredi iguaçu e estudo no unimater sistema de informação 1º período
+estudando git
